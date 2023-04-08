@@ -1,7 +1,7 @@
 # Twitter-NLP-WebApp
 
 This a webApp that analysis tweets by extracting them through twitter's API. The tweets are catogarized as positive, negative or neutral using natural language processing.
-This app is build with streamlit, pandas, numpy, tweepy and some other commonly used pyhton modules.
+This app is build with streamlit, pandas, numpy, tweepy and some other commonly used python modules.
 The webApp is live at this link: https://twitternlpwebapp.onrender.com
 
 
