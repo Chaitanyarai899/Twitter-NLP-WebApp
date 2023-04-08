@@ -7,3 +7,4 @@ textblob
 tweepy==4.4.0
 wordcloud
 configparser
+streamlit_lottie
