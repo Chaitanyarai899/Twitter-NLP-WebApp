@@ -80,6 +80,8 @@ def getAnalysis(score):
     return 'Negative'
   elif score == 0:
     return 'Neutral'
+  elif score == -1:
+    return 'Not Sure'
   else:
     return 'Positive'
 
