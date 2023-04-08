@@ -6,7 +6,8 @@ The webApp is live at this link: https://twitternlpwebapp.onrender.com
 
 
 
-https://user-images.githubusercontent.com/95732261/230711076-11a85392-8d7c-44d7-b513-ab7d08138ea6.mp4
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/95732261/230711314-32092c96-b81f-48a7-8e78-220ed386a9e7.png">
+
 
 
 
