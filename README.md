@@ -12,3 +12,4 @@ https://user-images.githubusercontent.com/95732261/230710472-a00fcf5e-8a26-4168-
 ## Unfortunate Update
 My twitter API access was revoked recently as twitter API V2 became a paid service. Now, in order to fetch tweets from the twitter API I'll have to spend $100 dollars a month
 which is just not practical for a full-time student.
+Sadly, the webApp is not working anymore.
