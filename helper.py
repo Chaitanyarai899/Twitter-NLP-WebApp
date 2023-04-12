@@ -123,7 +123,6 @@ def commonwordlist(count):
     return recurring_words
 
 
-locations = ["Delhi", "India Gate", "Jantar Mantar", "Dwarka", "Kerela", ]
 
 def intersection(recurring_words, locations):
     lst3 = [value for value in recurring_words if value in locations]
