@@ -121,7 +121,7 @@ def commonwordlist(count):
     return recurring_words
 
 
-locations = ["Delhi", "India Gate", "Jantar Mantar", "Dwarka", "Kerela", ]
+locations = ["Delhi", "India Gate", "Jantar Mantar", "Dwarka", "Kerela", "Maharastra" ]
      
 
 def intersection(recurring_words, locations):
