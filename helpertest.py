@@ -173,7 +173,7 @@ def analyse_hastag(data):
     hastag = pd.concat([hastag["hastag_0"]], ignore_index=True)
   
   hastag = hastag.value_counts().head(10)
-
+  print(hastag)
   return hastag
 
 
