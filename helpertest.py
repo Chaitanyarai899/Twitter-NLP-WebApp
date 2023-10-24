@@ -178,14 +178,6 @@ def analyse_hastag(data):
 
 
 
-
-def graph_sentiment(data):
-
-  analys = data["Analysis"].value_counts().reset_index().sort_values(by="index", ascending=False)
-  
-  return analys
-
-
 #print(preprocessing_data("Nupur Sharma",100,"Search By #Tag and Words"))
 #print(intersection(commonwordlist((commonword(preprocessing_data("Nupur Sharma",100,"Search By #Tag and Words")))),locations))
 
