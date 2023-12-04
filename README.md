@@ -18,4 +18,4 @@ This app is build with streamlit, pandas, numpy, tweepy and some other commonly 
 ## Unfortunate Update
 My twitter API access was revoked recently as twitter API V2 became a paid service. Now, in order to fetch tweets from the twitter API I'll have to spend $100 dollars a month
 which is just not practical for a full-time student.
-Sadly, the webApp is not working anymore.
+Sadly, the webApp is not live anymore.
